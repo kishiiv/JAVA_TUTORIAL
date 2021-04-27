@@ -1,0 +1,4 @@
+* Any group of individual  objects which are represented as a single unit is known as the collection of the ojects.
+* A framework is a set pf classes & interfaces which provide a ready made architechture means no need to execute, directly use the implementation.
+* Collection framework is Java API which provides aarchitechture to store and manipulate group of objects.
+* To use collection architechtures, we need to import java.util.package.
